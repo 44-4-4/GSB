@@ -131,5 +131,5 @@ function redimensionnement() {
 
 </html>
 <?php }else{
-    echo "<center><h2>Erreure dans la connexion, essayez de vous reconnecter.</h2></center>";
+    echo "<center><h2>Erreur dans la connexion, essayez de vous reconnecter.</h2></center>";
 }?>
